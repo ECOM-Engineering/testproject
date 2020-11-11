@@ -1,5 +1,6 @@
 # testproject
 learning github
 
-More documentation tests under Wiki 
+More documentation tests under  
+[Wiki](https://github.com/ECOM-Klaus/testproject/wiki)
 
